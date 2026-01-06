@@ -23,7 +23,7 @@ This project is a Natural Language Processing (NLP) application that performs se
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mekhi1green/NLP-sentiment-analysis.git
+   git clone https://github.com/mekhi1green/sentiment_analysis_MekhiGreen.git
 2. Open the Jupyter Notebook
    jupyter notebook sentiment_analysis_MekhiGreen.ipynb
 
